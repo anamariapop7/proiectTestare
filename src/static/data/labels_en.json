@@ -1,0 +1,20 @@
+{
+  "Sizes": "Sizes",
+  "Products": "Product(s) found.",
+  "Order": "Order by",
+  "OrderAsc": "Lowest to highest",
+  "OrderDesc": "Highest to lowest",
+  "AddToCart": "AddToCart",
+  "Bag": "Bag",
+  "EmptyBag": "Add some product in the bag",
+  "Subtotal": "Subtotal",
+  "Checkout": "Checkout",
+  "Quantity": "Quantity",
+  "ORUPTO ": "OR UP TO",
+  "Login": "Login",
+  "Logout": "Logout",
+  "Username": "Username",
+  "Password": "Password",
+  "Free": "Free shipping"
+}
+
